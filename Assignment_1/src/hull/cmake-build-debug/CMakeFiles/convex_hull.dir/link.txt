@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/convex_hull.dir/main.cpp.o -o convex_hull.exe -Wl,--out-implib,libconvex_hull.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

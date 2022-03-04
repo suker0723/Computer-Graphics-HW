@@ -1,0 +1,1 @@
+/usr/bin/c++.exe    -Wl,--enable-auto-import CMakeFiles/point_in_polygon.dir/main.cpp.o  -o point_in_polygon.exe -Wl,--out-implib,libpoint_in_polygon.dll.a -Wl,--major-image-version,0,--minor-image-version,0  

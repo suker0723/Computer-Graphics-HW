@@ -1,0 +1,3 @@
+/cygdrive/d/CG class data/Assignment_1/Assignment_1/src/hull/build/CMakeFiles/edit_cache.dir
+/cygdrive/d/CG class data/Assignment_1/Assignment_1/src/hull/build/CMakeFiles/convex_hull.dir
+/cygdrive/d/CG class data/Assignment_1/Assignment_1/src/hull/build/CMakeFiles/rebuild_cache.dir

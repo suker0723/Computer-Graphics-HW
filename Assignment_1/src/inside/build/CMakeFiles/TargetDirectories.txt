@@ -1,0 +1,3 @@
+/cygdrive/d/CG class data/Assignment_1/Assignment_1/src/inside/build/CMakeFiles/edit_cache.dir
+/cygdrive/d/CG class data/Assignment_1/Assignment_1/src/inside/build/CMakeFiles/point_in_polygon.dir
+/cygdrive/d/CG class data/Assignment_1/Assignment_1/src/inside/build/CMakeFiles/rebuild_cache.dir
